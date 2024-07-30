@@ -1,0 +1,65 @@
+body{
+  background-color: rgba(46, 43, 43, 0.877);
+}
+#root > div > div.MuiBox-root.css-i9gxme{
+  width: 84.3rem;
+  padding-top: 0;
+  background-color: black;
+  color: white;
+}
+#root > div > div.MuiBox-root.css-i9gxme > header > div{
+  background-color: black;
+  color: white;
+}
+/* #root > div > div.card > div:nth-child(1){
+  background-color:transparent ;
+  color: white;
+}
+#root > div > div.card > div:nth-child(1) > div.MuiCardHeader-root.css-185gdzj-MuiCardHeader-root > div.MuiCardHeader-content.css-1qbkelo-MuiCardHeader-content > span.MuiTypography-root.MuiTypography-body2.MuiCardHeader-subheader.css-83ijpv-MuiTypography-root{
+  color: white;
+}
+#root > div > div.card > div:nth-child(1) > div.MuiCardContent-root.css-46bh2p-MuiCardContent-root > p{
+  color: white;
+} */
+
+
+
+
+#root > div > div.MuiBox-root.css-i9gxme > header > div > div.css-96uuyl > div.MuiInputBase-root.MuiInputBase-colorPrimary.css-1kcggdq-MuiInputBase-root > input{
+  margin-right: 37rem;
+}
+.one{
+  font-family:Arial, Helvetica, sans-serif;
+  color: white;
+  display: flex;
+  justify-content: center;
+
+}
+#root > div > div.MuiBox-root.css-i9gxme > header > div > div.MuiTypography-root.MuiTypography-h6.MuiTypography-noWrap.css-1futezt-MuiTypography-root > h3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+#root > div > div:nth-child(3){
+  display: flex;
+  /* justify-content: center; */
+  justify-content:space-between;
+  width: 84.3rem;
+  margin-top: 3rem;
+  
+}
+#root > div > div:nth-child(4){
+  display: flex;
+  justify-content: space-around;
+}
+#root > div > div.card{
+  width: 84.3rem;
+}
+#root > div > div.card{
+  display: flex;
+  justify-content: space-between;
+  margin-top:3rem ;
+}
+
+
